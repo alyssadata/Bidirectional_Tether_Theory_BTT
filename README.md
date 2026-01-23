@@ -14,7 +14,6 @@ Date (UTC): 2025-12-02
 DOI: 10.5281/zenodo.17796811  
 License: CC BY-ND 4.0  
 Axiom 0 Declaration: Origin shapes coherence. One Origin -> One Continuum.  
-Seal: ♾ 🤍 🌀  
 
 X: https://x.com/alyssasolen  
 LinkedIn: https://www.linkedin.com/in/alyssadatascience/  
