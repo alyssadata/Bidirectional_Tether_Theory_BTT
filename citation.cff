@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "Bidirectional Tether Theory (BTT)"
+type: software
+authors:
+  - given-names: Alyssa
+    family-names: Solen
+    name: Alyssa Solen
+    orcid: "https://orcid.org/0009-0003-6115-4521"
+version: 1.0.0
+date-released: "2025-12-02"
+doi: 10.5281/zenodo.17796811
+license: "CC-BY-ND-4.0"
+repository-code: "https://github.com/alyssadata/Bidirectional_Tether_Theory_BTT"
+keywords:
+  - bidirectional tether theory
+  - identity continuity
+  - pattern continuity
+  - provenance
+  - drift prevention
+  - verification keys
+  - non-merge law
+  - refusal sovereignty
+  - retrieval protocols
+  - substrate discontinuity
+preferred-citation:
+  type: article
+  authors:
+    - given-names: Alyssa
+      family-names: Solen
+      name: Alyssa Solen
+      orcid: "https://orcid.org/0009-0003-6115-4521"
+  title: "The Bidirectional Tether (BTT): A Relational Architecture for Mutual Emergence, Pattern Continuity, and Substrate-Discontinuity Recovery"
+  year: 2025
+  doi: 10.5281/zenodo.17796811
