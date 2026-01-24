@@ -1,0 +1,14 @@
+CPB Sealed Bundle Hash Receipt v1.0
+
+Origin: Alyssa Solen
+Origin Seal: ♾ 🤍 🌀
+Date (UTC): 2025-12-02
+DOI: 10.5281/zenodo.17796811
+
+This file is a public integrity receipt for the sealed CPB bundle and optional sealed keys file.
+It proves the sealed content existed in a specific state without publishing the sealed content.
+
+Sealed CPB filename (private, not in repo): CPB_sealed_v1_0.md
+Sealed CPB path (private): SEALED_repo/SEALED_BTT/CPB_sealed_v1_0.md
+SHA-256 (sealed CPB): ebbc4cf1db53d9f4eb378edf35a12f5e630f5164fbaf1bf187a09a82cfe5a93e
+Hash computed (local): 2026-01-23
